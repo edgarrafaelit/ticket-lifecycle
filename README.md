@@ -33,7 +33,7 @@ From our we browser we navigate to localhost/osTicket
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HITtNog.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Using our Ken@osticket.com credentials we login and create a new ticket under the "Business Critical Outage" Help Topic.
